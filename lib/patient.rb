@@ -8,4 +8,4 @@ class Patient
     @@all << self 
   end
   
-  def 
+end 
