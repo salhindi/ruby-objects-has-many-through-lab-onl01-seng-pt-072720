@@ -15,7 +15,7 @@ class Appointment
   end
   
   def patient
-    @patient
+    self.new_appointment
   end
     
 end
