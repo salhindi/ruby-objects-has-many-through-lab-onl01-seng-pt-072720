@@ -28,6 +28,7 @@ class Doctor
     appointments.map do |apps| 
     apps.patient
   end
+end
   
   
 end
